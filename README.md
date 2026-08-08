@@ -72,3 +72,17 @@ music-player/
 ├── style.css         # Glassmorphic CSS, keyframes, variables, & responsive styles
 ├── script.js         # Audio API state machine, DOM event listeners, & search logic
 └── README.md         # Documentation file
+
+---
+
+## 🚀 How to Run
+
+### Prerequisites
+You do *not* need Node.js, npm, or any external package managers to run this project. All you need is a modern web browser.
+
+### Option 1: Quick Local Run
+1. *Clone the repository:*
+   ```bash
+   git clone [https://github.com/your-username/music-player.git](https://github.com/your-username/music-player.git)
+## AUTHOR
+HARSH CHAUHAN
