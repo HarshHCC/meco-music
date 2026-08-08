@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ENHANCED DYNAMIC HEADER BANNER WITH SHAPES & ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,35:a29bfe,70:00cec9,100:0984e3&height=260&section=header&text=%F0%9F%8C%B5%20MECO%20MUSIC%20PLAYER&fontSize=48&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=%E2%9C%A8%20Glassmorphism%20%E2%80%A2%20Spinning%20Vinyl%20%E2%80%A2%20Web%20Audio%20Engine%20%E2%9C%A8&descAlignY=62&descScale=18" width="100%" alt="MECO Music Player Banner" />
+<!-- ANIMATED HEADER WITH DYNAMIC WAVE SHAPES -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,35:a29bfe,70:00cec9,100:0984e3&height=260&section=header&text=🎵%20MECO%20MUSIC%20PLAYER&fontSize=48&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=✨%20Glassmorphism%20•%20Spinning%20Vinyl%20•%20Web%20Audio%20Engine%20✨&descAlignY=62&descScale=18" width="100%" alt="MECO Music Player Banner" />
 
 <br/>
 
-<!-- BADGES -->
+<!-- ANIMATED SHIELD BADGES -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -19,7 +19,7 @@
 
 <!-- MUSIC APP UI SHOWCASE -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1200&auto=format&fit=crop" alt="MECO Music Player Visual Preview" width="650" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(108, 92, 231, 0.4);" />
+  <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRbwtGNZqHVolvEhijn82VkZQ8TPa2f48sQCndC4NIdwzvrdSXwqaYWQyWeJAQFYKNCDyvQSWR6JNf33FecInMsgzIf0xPdXGLU" alt="MECO Music Player Glassmorphic UI" width="650" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(108, 92, 231, 0.4);" />
 </p>
 
 [🚀 View Live Demo](#-sample-usage--interactions) • [✨ Key Features](#-features) • [⚡ Quick Start](#-how-to-run) • [⌨️ Keyboard Shortcuts](#-keyboard-shortcuts) • [👨‍💻 Author](#-author)
@@ -60,16 +60,6 @@ MECO-MUSIC-PLAYER/
 ├── style.css         # Glassmorphism styling, animations, & CSS variables
 ├── script.js         # Audio API logic, keyboard handlers, & playlist filter
 ├── README.md         # Project documentation
-
-## 🛠️ Technologies Used
-
-- **HTML5**: Semantic document structure and native `<audio>` element integration.
-- **CSS3**: CSS Variables, Flexbox, Keyframe Animations, Glassmorphism (`backdrop-filter`).
-- **JavaScript (Vanilla ES6+)**: Audio API event handling, DOM manipulation, and keyboard listeners.
-- **FontAwesome 6**: Modern vector control icons.
-- **VS Code**: Primary Code Editor.
-
----
 
 ## 📦 Installation & Setup
 
