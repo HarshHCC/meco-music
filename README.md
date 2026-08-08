@@ -1,35 +1,36 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:00cec9&height=220&section=header&text=MUCO%20MUSIC%20PLAYER&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Sleek%20%E2%80%A2%20Glassmorphic%20%E2%80%A2%20Interactive%20Web%20Audio%20Experience&descAlignY=66&descScale=18" width="100%" alt="MUCO Banner" />
+<!-- HIGH-IMPACT DYNAMIC HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:a29bfe,100:00cec9&height=240&section=header&text=MECO%20MUSIC%20PLAYER&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=%E2%9C%A8%20Sleek%20%E2%80%A2%20Glassmorphic%20%E2%80%A2%20Interactive%20Web%20Audio%20%E2%9C%A8&descAlignY=64&descScale=18" width="100%" alt="MECO Banner" />
 
 <br/>
 
-<!-- BADGES -->
+<!-- ANIMATED TECH BADGES -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-00cec9.svg?style=for-the-badge)](LICENSE)
 
+<br/>
+
 <p align="center">
-  A lightweight, responsive web music player featuring a modern glassmorphism UI, interactive vinyl record animations, real-time track searching, and dynamic ambient lighting.
+  <b>A next-generation, lightweight browser audio player featuring translucent glassmorphism UI, interactive spinning vinyl disc physics, real-time playlist search, and rich ambient glow.</b>
 </p>
 
-[Features](#-key-features) • [How to Run](#-how-to-run) • [Customization](#-how-to-add-custom-tracks) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [What We Learned](#-what-we-learned) • [Author](#-author)
+<!-- FEATURED UI SHOWCASE -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17862197435217204595253512720057_4ba25e.jpg" alt="MECO Music Player UI Preview" width="580" style="border-radius: 18px; box-shadow: 0 15px 35px rgba(108, 92, 231, 0.35);" />
+</p>
+
+[View Demo](#-sample-usage--interactions) • [Features](#-features) • [Quick Start](#-how-to-run) • [Shortcuts](#-keyboard-shortcuts) • [Author](#-author)
 
 </div>
-
-
-```markdown
-# 🎵 MECO Music Player using Web Technologies
-
-A professional, modern **Web-Based Music Player** developed using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This music player provides an interactive desktop-class audio experience with glassmorphism UI, a spinning vinyl record animation, real-time track search, and keyboard shortcuts.
 
 ---
 
 ## 📌 Project Overview
 
-This project showcases frontend web development concepts by building a responsive, lightweight, and framework-free audio player interface. The player features a translucent glassmorphic design, floating ambient lighting, custom audio controls, and an interactive vinyl disc that slides and rotates during playback.
+This project showcases modern frontend web development concepts by building a responsive, lightweight, and framework-free audio player interface. The player features a translucent glassmorphic design, floating ambient lighting, custom audio controls, and an interactive vinyl disc that slides and rotates during playback.
 
 This project was developed as a hands-on project to master web audio APIs and modern UI/UX design.
 
@@ -52,21 +53,13 @@ This project was developed as a hands-on project to master web audio APIs and mo
 
 ## 📁 Project Structure
 
-
-```
-
+```text
 MECO-MUSIC-PLAYER/
 │
 ├── index.html        # Main DOM layout and audio player structure
 ├── style.css         # Glassmorphism styling, animations, & CSS variables
 ├── script.js         # Audio API logic, keyboard handlers, & playlist filter
 ├── README.md         # Project documentation
-│
-└── assets/
-├── audio/        # Local MP3 track files
-└── covers/       # Album cover artwork images
-
-```
 
 ---
 
